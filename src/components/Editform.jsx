@@ -1,3 +1,6 @@
+// As soon as you clicked the edit button this is the page which brings out the
+// form to edit the task.
+
 import React, { useState } from "react";
 
 export default function Editform({editTodo, task, arrayTasks}) {
@@ -11,8 +14,6 @@ export default function Editform({editTodo, task, arrayTasks}) {
     } else {
       alert('Task can\'t be empty')
     }
-
-    // setVal('')
   }
 
   return (

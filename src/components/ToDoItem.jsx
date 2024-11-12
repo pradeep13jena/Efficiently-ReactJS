@@ -1,5 +1,5 @@
+// Each Structre for each task is writted here.
 import React from 'react'
-import edit from '../assets/edit.png'
 
 export default function ToDoItem({tasks, completeIt, deleteIt, editIt}) {
 
@@ -16,4 +16,3 @@ export default function ToDoItem({tasks, completeIt, deleteIt, editIt}) {
     </div>
   )
 }
-// {/* <i class="fa-regular fa-trash-can"></i> */}

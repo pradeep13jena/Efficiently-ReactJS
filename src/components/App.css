@@ -1,10 +1,10 @@
-/* Hide scrollbar for WebKit browsers */
+/* The CSS page it designs the website */
 .tasklist {
-  overflow: auto; /* Enables scrolling */
+  overflow: auto;
 }
 
 .tasklist::-webkit-scrollbar {
-  display: none; /* Hides scrollbar */
+  display: none;
 }
 
 *{
@@ -268,6 +268,7 @@ button[type="submit"]:hover{
 
   .todo_left{
     gap: .5em;
+    align-items: center;
   }
 }
 

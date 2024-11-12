@@ -1,8 +1,8 @@
+// This page acts as the input feild which adds the task that is at the below of the screen.
 import React, { useState } from "react";
 
 export default function TodoForm({ newTodo }) {
   const [val, setVal] = useState("");
-
   function handleSubmit(e) {
     e.preventDefault();
     newTodo(val);
