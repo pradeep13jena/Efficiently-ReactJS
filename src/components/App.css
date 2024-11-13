@@ -139,6 +139,11 @@ button[type="submit"]:hover{
   border: none;
   background-color: transparent;
 }
+
+.todo_left:hover{
+  cursor: pointer;
+}
+
 .todo_right{
   display: flex;
   justify-content: center;
