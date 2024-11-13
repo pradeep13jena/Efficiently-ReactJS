@@ -17,9 +17,9 @@ To use this project, clone it from GitHub and follow these steps:
    ```
 
 2. **Start the Development Server**: Use Vite to create a local server for development:
-  ```bash
-  npx vite
-  ```
+   ```bash
+   npx vite
+   ```
 
 ## Design overview
 
