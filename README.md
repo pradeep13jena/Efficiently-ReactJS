@@ -28,6 +28,12 @@ Efficiently is designed to be minimal and straightforward, with a focus on usabi
 - The **header** at the top displays the name and tagline of the application. If you plan to change these, make sure to check the design and alignment for a cohesive look.'
 - At the bottom, there is an **input field and button** for adding tasks.
 
+**Responsive Design**: 
+Website is responsive, it can be used on different device with varying width & height. Few example are
+- Laptop
+- Ipan mini
+- Samsung Galaxy S8+
+
 **Important Note**: Tasks have validation rules:
 
 - **Cannot be empty**: Empty tasks are not allowed.
